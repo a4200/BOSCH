@@ -1,5 +1,5 @@
 ---
-- hosts: all
+- hosts: localhost
   user: ansadmin
   tasks:
     - name: Deploying the todo application and mysqldb
