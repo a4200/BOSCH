@@ -1,8 +1,10 @@
-# ansible-todo-deploy
-Deploy a todo app with mysql with dockercompose using ansible.
+# ansible-TODO_APP
+Deploying a todo app with mysql with dockercompose using ansible playbook.
 
-# Installing Docker and Dockercompose in the remote host
+# run the coomand: ocker-install-playbook
+
 ansible-palybook docker-install-playbook.yaml
 
-# Deploying todo-application and sql app using Docker Compose
+# Run the command - Deploying todo-application and sql app using Docker Compose
+
 ansible-playbook deploy-todo-playbook.yaml
