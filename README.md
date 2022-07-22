@@ -12,7 +12,7 @@ ansible-playbook deploy-todo-playbook.yaml
 #Inventory is define is hosts file.
 
 **#Run the TODO-APP:**
-http://http://13.229.127.175:3000/
+http://13.229.127.175:3000/
 
 
 
