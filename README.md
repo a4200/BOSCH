@@ -9,7 +9,7 @@ ansible-playbook docker-install-playbook.yaml
 
 ansible-playbook deploy-todo-playbook.yaml
 
-#Inventory is define is hosts file.
+
 
 **#Run the TODO-APP:**
 http://54.151.249.215:3000/
