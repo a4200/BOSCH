@@ -12,7 +12,7 @@ ansible-playbook deploy-todo-playbook.yaml
 
 
 **#Run the TODO-APP:**
-http://54.151.249.215:3000/
+http://52.90.177.70:3000/
 
 
 
